@@ -1,2 +1,2 @@
 # JavaStopwatch
-A stopwatch to track time created with Java.
+My stopwatch project to track time created with Java.
